@@ -1,0 +1,70 @@
+Bom bam POW!+++sf+++sf1+++sfCe tip de graf este acesta?+++sf3+++sf2+++sf5+++sf861 424 1+++sf1068 375 1+++sf960 673 1+++sf1237 654 1+++sf1293 365 1+++sf5+++sf1 2 1+++sf4 2 1+++sf3 2 1+++sf5 2 1+++sf1 3 1+++sfGraf minune+++sfGraf orientat+++sfGraf neorientat+++sf1+++sf+++sf1+++sfCate noade exista? :))+++sf1+++sf1+++sf5+++sf858 403 1+++sf903 608 1+++sf1220 471 1+++sf1019 340 1+++sf1235 354 1+++sf3+++sf1 3 1+++sf2 1 1+++sf2 3 1+++sf7+++sf+++sf3+++sfGenul ala de intrebare cu teorie la care nu raspunzi+++sf3+++sfOricum nu stii+++sfO sa iau 4+++sfAyaye+++sf2+++sf+++sf1+++sfCe tip de graf este desenat alaturi?+++sf3+++sf2+++sf3+++sf867 466 1+++sf1145 384 1+++sf1018 625 1+++sf2+++sf1 2 1+++sf3 1 1+++sfGraf orientat+++sfGraf neorientat+++sfCe caut aici?+++sf2+++sf+++sf3+++sfInca una de teorie+++sf1+++sfInca una de teorie+++sf+++sf
+
+Bom bam POW!
+
+1
+Ce tip de graf este acesta?
+3
+2
+5
+861 424 1
+1068 375 1
+960 673 1
+1237 654 1
+1293 365 1
+5
+1 2 1
+4 2 1
+3 2 1
+5 2 1
+1 3 1
+Graf minune
+Graf orientat
+Graf neorientat
+1
+
+1
+Cate noade exista? :))
+1
+1
+5
+858 403 1
+903 608 1
+1220 471 1
+1019 340 1
+1235 354 1
+3
+1 3 1
+2 1 1
+2 3 1
+7
+
+3
+Genul ala de intrebare cu teorie la care nu raspunzi
+3
+Oricum nu stii
+O sa iau 4
+Ayaye
+2
+
+1
+Ce tip de graf este desenat alaturi?
+3
+2
+3
+867 466 1
+1145 384 1
+1018 625 1
+2
+1 2 1
+3 1 1
+Graf orientat
+Graf neorientat
+Ce caut aici?
+2
+
+3
+Inca una de teorie
+1
+Inca una de teorie
+

@@ -1,0 +1,61 @@
+Testare 2
+1
+1
+1
+1
+1
+
+A doua intrebare?
+rasp!
+23
+233
+2
+
+123 123 
+ 3
+23 
+23 23 12
+2
+
+3 213 
+3 23 
+3 23
+ 23 12 3
+2
+
+32 3
+1 23
+ 23
+ 21 23
+2
+
+3 23 1
+2 
+32 3
+23 12 31
+2
+
+231
+32
+3 23 23
+32 32
+1
+
+ sg ds
+fd f
+ df df
+ sdf sdf
+0
+
+dfs dfs d
+f sdf
+ sdf sdf
+  gdhth dt
+1
+
+tdhd th
+ dth 
+ dth
+dth dth 
+1
+
